@@ -1,7 +1,7 @@
 # FAT32
 Source code for the emulation of a FAT32 file system written in C
 
-Disclaimer: I don't claim to be good at C. Please don't make fun of me.
+Disclaimer: This is a school project created on limited time, not production software.
 
 This program hooks into a valid disk file (I used a .img for testing but it can probably work with something like an .iso), reads all the files in it, and extracts them to the folder the program is run from.
 
